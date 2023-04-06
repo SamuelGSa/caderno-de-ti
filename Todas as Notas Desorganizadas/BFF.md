@@ -1,6 +1,6 @@
 # BFF - Back-end for Front-end
 
-Padrão de API que permite equipes a iterarem recursos mais rapidamente e terem controles sobre o backend, sem afetar o front e também gerar experiencias de acordo com cada pessoa usuária de um detesminado produto.
+Padrão de API que permite equipes a iterarem recursos mais rapidamente e terem controles sobre o backend, sem afetar o front e também gerar experiencias de acordo com cada pessoa usuária de um determinado produto.
 
 *O BFF funciona como um filtro de todos os produtos existentes atrás do balcão e permite a personalização de cada pedido. 
 (Como ele faz isso???)*
@@ -8,8 +8,8 @@ Padrão de API que permite equipes a iterarem recursos mais rapidamente e terem 
 
 ## Vantagens 
 
-- Imagina uma tela de cadastro: Varios campos, JSON imenso pra depois mostrar apenas o email e senha, no login. Através do Backend, o BFF faz um filtro e entrega para o front somente o necessário.
-- Home de um app, diversos endpoints de consulta. Com o BFF, o backend poderi otimizar esse processo e disponibilizar, através dele, tudo que deve se rexibido na tela em um unico endpoints, e assim o front faria apenas 1 requisição
+- Imagina uma tela de cadastro: Vários campos, JSON imenso pra depois mostrar apenas o email e senha, no login. Através do Backend, o BFF faz um filtro e entrega para o front somente o necessário.
+- Home de um app, diversos endpoints de consulta. Com o BFF, o backend poderia otimizar esse processo e disponibilizar, através dele, tudo que deve se exibido na tela em um único endpoints, e assim o front faria apenas 1 requisição
 - Permite também um conteúdo dinâmico e personalizado na interface. E conseguimos usar o backend para fornecer isso, sem depender de uma atualização na App Store, podendo atualizar constantemente. (Beagle) (Server Driven UI)
 ___
 
@@ -19,7 +19,7 @@ Facilita a criação de telas por meio do backend
 
 -------
 
-CMS - gestor de conteudo
+CMS - gestor de conteúdo
 
 webview - ESTUDAR ????????
 
@@ -33,17 +33,17 @@ datagrid
 
 JWT
 
-statfull
-statless
+stateful
+stateless
 
-ESTUDA MAIS CODIGO, VACILAO !!! TU É BACK
+ESTUDA MAIS CÓDIGO, VACILÃO !!! TU É BACK
 
-marcar reuniao alexsndre semana que vem sobre BFF
+marcar reunião Alexandre semana que vem sobre BFF
 
 ___________________
 
-O BFF deixa o front mais dinamico atraves do back.
-Qual é o limite disso, tendo em vista que é muito mais vantajoso deixar os apps mais dinamicos (ex: instagram)
+O BFF deixa o front mais dinâmico através do back.
+Qual é o limite disso, tendo em vista que é muito mais vantajoso deixar os apps mais dinâmicos (ex: Instagram)
 
 o BFF é backend
 o mobile é Front

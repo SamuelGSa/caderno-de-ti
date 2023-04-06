@@ -4,7 +4,7 @@ Usado para classificar os elementos presentes na lista especificada de Coleção
 ___
 
 ## ``List<E>``
-Uma coleção ordenada.  O usuário tem controle ´reciso sobre onde na lista cada elemento é inserido. 
+Uma coleção ordenada.  O usuário tem controle preciso sobre onde na lista cada elemento é inserido. 
 
 A lista permite elemento duplicados.
 ___
@@ -47,7 +47,7 @@ ___
 - ``.put()`` e ``.remove()`` : colocar e remover elementos. Não retorna valores.
 ___
 
-- ``forEach()`` :usado para iterar os valores e chaves da interace
+- ``forEach()`` :usado para iterar os valores e chaves da interface
 - ``replace()`` : substituir elementos
 - ``merge()`` : mesclar diferentes maps
 

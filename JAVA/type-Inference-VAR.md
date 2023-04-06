@@ -1,6 +1,6 @@
 # VAR - Type Inference
 
-**Inferência de tipo** refere-se a um paradígma de linguagem de progrmação e usamo para definir nossos tipos de objetos e variáveis.
+**Inferência de tipo** refere-se a um paradigma de linguagem de programação e usamo para definir nossos tipos de objetos e variáveis.
 
 No JAVA, só veio na JDK 10.
 
@@ -22,7 +22,7 @@ hashMap<Integer, String> mapa = new HashMap<Integer, String>();
 ```
 var mapa = new HashMap<integer, String>();
 ```
-Uma vantagem de se usar o VAR é que o codigo fica menos verboso, você delega para o complicador a decisão de determinar qual é o tipo da variável.
+Uma vantagem de se usar o VAR é que o código fica menos verboso, você delega para o complicador a decisão de determinar qual é o tipo da variável.
 
 ___
 ## Regras para usar este modelo: 

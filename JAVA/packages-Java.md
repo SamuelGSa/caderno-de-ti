@@ -1,6 +1,6 @@
 # Packages Java (Java e java.lang: programe com a classe Object e String)
 
-Packages são diretórios que tem significado especial dentro do codigo fonte java,
+Packages são diretórios que tem significado especial dentro do código fonte java,
  a palavra chave package deve ser a primeira declaração
  e packages servem para organização e agrupar as classes e interfaces.
 

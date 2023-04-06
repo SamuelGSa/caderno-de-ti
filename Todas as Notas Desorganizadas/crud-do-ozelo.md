@@ -3,7 +3,7 @@
 Fazer u CRUD de um registro Simples (Cadastro de Cliente) usando REST e H2
 ___
 
-h2 -> É um banco de Dados imbutido , de codigo aberto  e na mémoria.
+h2 -> É um banco de Dados embutido , de código aberto  e na memória.
 Sistema de gerenciamento de banco de dados relacional.
 
 Configurando o h2 (em application.properties)

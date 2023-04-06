@@ -1,4 +1,4 @@
-# Java OO: Ententendo a Orientação a Objetos
+# Java OO: Entendendo a Orientação a Objetos
 
 *Programação orientada a objetos é um Paradigma de programação (forma de se programar)*
 
@@ -19,7 +19,7 @@ ___
 O encapsulamento de atributos e métodos impede o chamado **vazamento de escopo**, onde um atributo ou método é visível por alguém que não deveria vê-lo, como outro objeto ou classe. 
 Isso evita a confusão do uso de variáveis globais no programa, deixando mais fácil de identificar em qual estado cada variável vai estar a cada momento do programa, já que a restrição de acesso nos permite identificar quem consegue modificá-la.
 
-Um carro, por **exemplo** tem os métodos de acelerar e outro de injeção de combustivel. Ao acelerar, você gasta combustível.
+Um carro, por **exemplo** tem os métodos de acelerar e outro de injeção de combustível. Ao acelerar, você gasta combustível.
 No entanto, se alguns desses atributos ou métodos forem facilmente visíveis e modificáveis, como o mecanismo de aceleração do carro, isso pode dar liberdade para que alterações sejam feitas, resultando em efeitos colaterais imprevisíveis. Nessa analogia, uma pessoa pode não estar satisfeita com a aceleração do carro e modifica a forma como ela ocorre, criando efeitos colaterais que podem fazer o carro nem andar.
 
 Mas então, como sabemos como o nosso carro acelera? É simples: **não sabemos**. Nós só sabemos que para acelerar, devemos pisar no acelerador e de resto o objeto sabe como executar essa ação sem expor como o faz. 
