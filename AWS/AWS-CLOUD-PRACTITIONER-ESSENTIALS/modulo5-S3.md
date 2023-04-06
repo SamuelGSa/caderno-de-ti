@@ -59,3 +59,9 @@ Se voce nao acessou un objeto por 30 dias consecutivos, o S3 o move automaticame
 
 - Categoria de armazenamento de objetos com menor custo, ideal para arquivamento
 - Capaz de recuperar objetos em 12 horas
+
+![S3](../../images/s31.png)
+
+.
+
+![S3](../../images/s32.png)
