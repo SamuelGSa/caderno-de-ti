@@ -1,6 +1,5 @@
 # @Autowired @Qualifier
 
-
 ``@Autowired`` permite que o spring resolva e injete beans de colaboração em nosso bean.
 
 Ao declarar todas as dependências de bean em um arquivo de configuração do Spring, o contêiner Spring pode conectar automaticamente os relacionamentos entre os brans de colaboração.  Isso é chamado de **autowiring de bean Spring**.
