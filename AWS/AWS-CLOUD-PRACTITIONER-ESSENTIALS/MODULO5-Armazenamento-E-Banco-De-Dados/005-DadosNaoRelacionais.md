@@ -7,4 +7,4 @@ São chamados de **NoSQL** pois usam estruturas diferentes para organizar dados.
 
 Em um banco de dados de chave-valor, você pode adicionar ou remover atributos de itens na tabela a qualquer momento. Além disso, nem todos os itens na tabela precisam ter os mesmos atributos. 
 
-![NoSQL](../../../_images/Modulo5/nosql.png)
+![NoSQL](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo5/nosql.png)

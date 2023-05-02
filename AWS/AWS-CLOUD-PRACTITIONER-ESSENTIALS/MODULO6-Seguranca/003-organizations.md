@@ -8,4 +8,4 @@ Suponha que sua empresa tenha múltiplas contas AWS. Você pode usar o **AWS Org
 
  você pode agrupar contas em **unidades organizacionais** (UO) para facilitar o gerenciamento de contas com requisitos de negócios ou segurança semelhantes. Ao aplicar uma política a uma UO, todas as contas na UO herdam automaticamente as permissões especificadas na política.  
 
-![Unidades organizacionais](../../../_images/Modulo6/organizations.png)
+![Unidades organizacionais](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/organizations.png)

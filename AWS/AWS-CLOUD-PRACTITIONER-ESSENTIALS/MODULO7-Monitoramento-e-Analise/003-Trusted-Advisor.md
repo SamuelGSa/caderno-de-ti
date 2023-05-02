@@ -11,7 +11,7 @@ O Trusted Advisor compara suas descobertas com as práticas recomendadas da AWS 
 
 ## Painel do AWS Trusted Advisor
 
-![Painel do Trusted advisor](../../_images/Modulo7/painel-trustadvisor.png)
+![Painel do Trusted advisor](../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/painel-trustadvisor.png)
 
 Para cada categoria:
 

@@ -9,4 +9,4 @@ Programa automaticamente o número correto de instâncias EC2 com base na demand
 
 **PS: Podem ser combinadas**
 
-![GRUPO AUTO SCALING](../../../_images/Modulo2/grupo-auto-scalling.png)
+![GRUPO AUTO SCALING](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo2/grupo-auto-scalling.png)

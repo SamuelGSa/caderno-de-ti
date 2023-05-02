@@ -12,7 +12,7 @@ Normalmente, os eventos são atualizados no CloudTrail dentro de **15 minutos** 
 >
 >em 1º de janeiro de 2020, às 9:00, o usuário do IAM John criou um novo usuário do IAM (Mary) pelo AWS Management Console.
 
-![Exemplo CloudTrail](../../_images/Modulo7/exemplo-cloud-trail.png)
+![Exemplo CloudTrail](../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/exemplo-cloud-trail.png)
 
 ## CloudTrail Insights
 

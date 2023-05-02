@@ -1,8 +1,8 @@
 # Questionário
 
-![Question1](../../../_images/Modulo10/question1.png)
+![Question1](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo10/question1.png)
 
-![Question2](../../../_images/Modulo10/question2.png)
+![Question2](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo10/question2.png)
 
 # Recursos Adicionais
 

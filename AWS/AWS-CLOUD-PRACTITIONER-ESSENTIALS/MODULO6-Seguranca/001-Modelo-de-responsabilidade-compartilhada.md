@@ -6,7 +6,7 @@ O modelo de responsabilidade compartilhada divide-se em:
 
 - **responsabilidades da AWS** (*comumente referidas como “segurança da nuvem”*).
 
-![Responsabilidade Compartilhada](../../../_images/Modulo6/resp-compartilhda.png)
+![Responsabilidade Compartilhada](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/resp-compartilhda.png)
 
 ## clientes: Segurança na nuvem
 

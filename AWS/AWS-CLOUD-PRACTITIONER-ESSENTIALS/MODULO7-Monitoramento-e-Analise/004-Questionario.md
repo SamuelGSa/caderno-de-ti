@@ -1,10 +1,10 @@
 # Questionário
 
-![Question1](../../../_images/Modulo7/question1.png)
+![Question1](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/question1.png)
 
-![Question2](../../../_images/Modulo7/question2.png)
+![Question2](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/question2.png)
 
-![Question3](../../../_images/Modulo7/question3.png)
+![Question3](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/question3.png)
 
 
 

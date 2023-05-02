@@ -14,7 +14,7 @@ Tem duas seções principais:
 
 >O AWS Artifact Reports fornece relatórios de conformidade por auditores terceirizados. Esses auditores testaram e verificaram se a AWS está em conformidade com diversas normas e regulamentações de segurança globais, regionais e específicas do setor. O AWS Artifact Reports se mantém atualizado com os relatórios publicados mais recentes. Você pode fornecer os artefatos de auditoria da AWS aos auditores ou reguladores como evidência dos controles de segurança da AWS.
 
-![tórios de conformidade e as regulamentações](../../../_images/Modulo6/conformidade.png)
+![tórios de conformidade e as regulamentações](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/conformidade.png)
 
 ---
 

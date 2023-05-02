@@ -17,7 +17,7 @@ Custo pode variar entre as regiões
 # Zona de disponibilidade
 Uma zona de disponibilidade é um único data center ou um grupo em uma região
 
-![Zona de Disponibilidade](../../../_images/Modulo03/regions-and-zones.png)
+![Zona de Disponibilidade](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo03/regions-and-zones.png)
 
 ## Falha na zona de disponibilidade
 Uma prática recomendada é executar aplicativos em pelo menos duas zonas de disponibilidade em uma região

@@ -29,4 +29,4 @@ Para o AWS Lambda, a cobrança é feita com base no número de solicitações da
 
 Você pode economizar nos custos do AWS Lambda inscrevendo-se em um Compute **Savings Plan**
 
-![Definicao Preco Lambda](../../../_images/Modulo8/lambdadefpreco.png)
+![Definicao Preco Lambda](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/lambdadefpreco.png)

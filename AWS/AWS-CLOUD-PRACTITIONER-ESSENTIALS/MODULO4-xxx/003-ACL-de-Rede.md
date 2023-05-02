@@ -18,19 +18,19 @@ Por **default**, um **grupo de segurança** **nega** todo o tráfego de **entrad
 ### Filtragem de pacotes Stateful
 Quando uma resposta de pacote para essa solicitação retorna para a instancia o grupo de segurança lembra da solicitação anterior. O grupo de segurança permite que a resposta prossiga independente das regras do grupo de segurança da entrada.
 
-![GRupos de Segurança](../../../_images/Modulo4/grpo-de-seg.jpg)
+![GRupos de Segurança](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/grpo-de-seg.jpg)
 
 
 ## DNS - Domain Name System
 A resolução de DNS é o processo de conversão de um nome de domínio para o endereço IP
 
-![DNS](../../../_images/Modulo4/DNS.jpg)
+![DNS](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/DNS.jpg)
 
 
 ## Amazon Route 53
 Serviço web de DNS
 
-![Route 53](../../../_images/Modulo4/route-53.jpg)
+![Route 53](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/route-53.jpg)
 
 ---
 

@@ -3,7 +3,7 @@ Uma coleção de dispositivos físicos para transporte físico de até exabytes 
 
 Consiste nos serviços:
 
-![Snow Family](../../../_images/Modulo9/snowFamily.jpg)
+![Snow Family](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo9/snowFamily.jpg)
 
 ## AWS Snowcone
 é um dispositivo pequeno, robusto e seguro para transferência de dados e computação de borda.

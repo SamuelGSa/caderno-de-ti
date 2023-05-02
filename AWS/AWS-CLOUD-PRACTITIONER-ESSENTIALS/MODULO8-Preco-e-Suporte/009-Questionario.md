@@ -1,12 +1,12 @@
 # Questionário
 
-![Question1](../../../_images/Modulo8/question1.png)
+![Question1](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/question1.png)
 
-![Question2](../../../_images/Modulo8/question2.png)
+![Question2](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/question2.png)
 
-![Question3](../../../_images/Modulo8/question3.png)
+![Question3](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/question3.png)
 
-![Question4](../../../_images/Modulo8/question4.png)
+![Question4](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/question4.png)
 
 
 # Recursos Adicionais

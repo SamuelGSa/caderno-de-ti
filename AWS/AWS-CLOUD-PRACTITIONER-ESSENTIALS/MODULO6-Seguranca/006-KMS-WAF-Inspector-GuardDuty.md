@@ -9,8 +9,8 @@ firewall de aplicativo web que permite monitorar solicitações de rede que entr
 O AWS WAF trabalha em conjunto com o **Amazon CloudFront** e um balanceador de carga de aplicativo.  
 O AWS WAF funciona de forma semelhante para bloquear ou permitir o tráfego. No entanto, ele faz isso usando uma lista de controle de acesso (ACL) da web para proteger seus recursos AWS. 
 
-![WAF](../../../_images/Modulo6/waf1.png)
-![WAF](../../../_images/Modulo6/waf2.png)
+![WAF](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/waf1.png)
+![WAF](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/waf2.png)
 
 # Amazon Inspector
 O Amazon Inspector ajuda a melhorar a segurança e a conformidade dos aplicativos executando avaliações de segurança automatizadas. Ele verifica os aplicativos quanto a vulnerabilidades de segurança e desvios das práticas recomendadas de segurança, como acesso aberto a instâncias do Amazon EC2 e instalações de versões de software vulneráveis. 
@@ -18,4 +18,4 @@ O Amazon Inspector ajuda a melhorar a segurança e a conformidade dos aplicativo
 # Amazon GuardDuty
  serviço que fornece detecção inteligente de ameaças para sua infraestrutura e seus recursos AWS. Ele identifica ameaças monitorando continuamente a atividade da rede e o comportamento da conta no seu ambiente AWS.
 
- ![GuardDuty](../../../_images/Modulo6/GuardDuty.png)
+ ![GuardDuty](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo6/GuardDuty.png)

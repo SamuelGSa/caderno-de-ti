@@ -7,6 +7,6 @@ Com o CloudWatch, você pode criar alarmes que executam ações automaticamente 
 
 ## Painel do CloudWatch
 
-![Painel do CloudWatch](../../_images/Modulo7/cloudwatch.png)
+![Painel do CloudWatch](../../_images/AWS-Cloud-Practitioner-Essentials/Modulo7/cloudwatch.png)
 
 Permite que voce acesse todas as métricas de seus recursos em um único local.

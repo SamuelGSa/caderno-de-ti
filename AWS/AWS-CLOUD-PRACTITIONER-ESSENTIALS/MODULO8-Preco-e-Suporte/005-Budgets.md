@@ -9,4 +9,4 @@ No AWS Budgets, você também pode definir alertas personalizados para quando se
 >
 >No AWS Budgets, você pode definir um orçamento personalizado para notificação quando o uso atingir metade desse valor (USD 100). Essa configuração permite que você receba um alerta e decida como deseja prosseguir com o uso contínuo do Amazon EC2.
 
-![Exemplo de Budgets](../../../_images/Modulo8/exemplobudgets.png)
+![Exemplo de Budgets](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo8/exemplobudgets.png)

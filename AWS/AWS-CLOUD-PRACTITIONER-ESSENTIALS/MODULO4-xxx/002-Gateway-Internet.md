@@ -1,7 +1,7 @@
 # Gateway da Internet
 Para permitir o tráfego público da internet acesse sua VPC, é preciso anexar um gateway da internet a VPC.
 
-![Internet gateway](../../../_images/Modulo4/internet-gateway.png)
+![Internet gateway](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/internet-gateway.png)
 
 # Gateway Privado Virtual
 Você pode pensar na internet como o caminho entre sua casa e a cafeteria.  
@@ -13,12 +13,12 @@ O gateway privado virtual é o componente que permite que o tráfego protegido d
 
 >O gateway privado Virtual permitirá o tráfego na VPC somente se ele for proveniente de uma rede aprovada
 
-![Gateway Privado](../../../_images/Modulo4/private-gateway.png)
+![Gateway Privado](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/private-gateway.png)
 
 # AWS Direct Connect
 permite estabelecer uma conexão privada dedicada entre seu data center e uma VPC.
 
-![Direct Conect](../../../_images/Modulo4/direct-conect.jpg)
+![Direct Conect](../../../_images/AWS-Cloud-Practitioner-Essentials/Modulo4/direct-conect.jpg)
 
 ## Sub-redes Públicas
 Contém recursos que precisam ser acessíveis ao público, como o site uma loja online.
